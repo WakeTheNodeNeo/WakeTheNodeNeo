@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:002b11&height=220&section=header&text=WAKE%20THE%20NODE&fontSize=42&fontColor=00ff66&animation=fadeIn&fontAlignY=38&desc=Linux%20%7C%20Docker%20%7C%20Networking%20%7C%20Data%20Center&descAlignY=62&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:002b11&height=220&section=header&text=WAKE%20THE%20NODE&fontSize=42&fontColor=00ff66&animation=fadeIn&fontAlignY=38&desc=Linux%20%7C%20Docker%20%7C%20Nginx%20%7C%20Data%20Center&descAlignY=62&descSize=18" />
 </p>
 
 <p align="center">
@@ -16,10 +16,10 @@
 
 ## 🧠 About Me
 
-- Running VPS (Ubuntu / Debian)
+- Running VPS (Ubuntu)
 - Deploying nodes and services
 - Working with logs and troubleshooting
-- Learning Linux, Docker and networking
+- Learning Linux, Docker and Nginx step by step
 
 ---
 
@@ -27,16 +27,16 @@
 
 - Linux
 - Docker (learning)
-- Networking basics
-- Monitoring
-- Data Center
+- Nginx
+- Bash
+- Data Center fundamentals
 
 ---
 
 ## 🧰 Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,bash,nginx,git,github,vscode,python" />
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,bash,nginx" />
 </p>
 
 ---
@@ -47,13 +47,8 @@
 linux-lab
 docker-lab
 nginx-lab
-monitoring-lab
-networking-notes
 
 
-
-## 📊 Stats
-
-<p>
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=WakeTheNodeNeo&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000" />
-</p>
+📊 Stats
+<p> <img height="160" src="https://github-readme-stats.vercel.app/api?username=WakeTheNodeNeo&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000" /> </p>
+<p align="center"> NO MAGIC. ONLY SYSTEMS. </p> ```
