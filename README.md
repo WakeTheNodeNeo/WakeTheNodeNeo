@@ -47,8 +47,3 @@
 linux-lab
 docker-lab
 nginx-lab
-
-
-📊 Stats
-<p> <img height="160" src="https://github-readme-stats.vercel.app/api?username=WakeTheNodeNeo&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000" /> </p>
-<p align="center"> NO MAGIC. ONLY SYSTEMS. </p> ```
