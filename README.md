@@ -35,12 +35,8 @@
 
 ## 🧰 Stack
 
-<p>
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff66" />
-<img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=00ff66" />
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff66" />
-<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00ff66" />
-<img src="https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=00ff66" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,bash,nginx,git,github,vscode,python" />
 </p>
 
 ---
